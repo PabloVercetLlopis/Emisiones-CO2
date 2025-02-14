@@ -16,9 +16,7 @@ Crear modelos predictivos (si es aplicable) para estimar las emisiones futuras y
 ## Estructura del Proyecto
 
 - **data/**: Contiene los datos de emisiones de CO2 (`emisiones_co2.csv`).
-- 
 - **notebooks/**: Contiene el notebook de análisis y visualización de emisiones de CO2.
-- 
 - **src/**: Contiene el código en Python para realizar el análisis de emisiones.
 
 ## Requisitos
